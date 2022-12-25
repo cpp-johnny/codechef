@@ -7,7 +7,7 @@ int main() {
 
   while (t--) {
     int a, b;
-    std::cin >> a >> b;
+    cin >> a >> b;
 
     if (a < b) {
       cout << '<' << std::endl;
